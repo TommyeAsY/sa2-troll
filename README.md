@@ -1,6 +1,20 @@
-# Troll Mod
+# Sonic Adventure 2 – Troll Mod
 
-There's what's done so far.
+This is a gameplay mod for Sonic Adventure 2 designed to challenge player expectations in unconventional ways. While it may initially feel frustrating, the experience is intended to become enjoyable once you adapt and find creative solutions to the problems it presents.
+
+The goal of the mod is to overplay your assumptions and expectations while staying as enjoyable a process as possible — assuming you found your solution for the new problem. The mod experience is meant to be enjoyable, but only after becoming somewhat frustrating.
+
+# 🔧 Installation
+To install the mod:
+
+Unzip (or currently un-rar) the contents of the archive into your Sonic Adventure 2\mods folder.
+
+Ensure the mod files are placed inside their own separate folder.
+
+Placing loose files directly into mods without a dedicated subfolder may cause ModLoader errors.
+
+# 📌 Planned Development
+The long-term goal is to modify all stages, though this will take time.
 
 ## Status
 
