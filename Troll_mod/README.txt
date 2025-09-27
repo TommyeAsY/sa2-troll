@@ -32,5 +32,4 @@ A: All of them. Eventually. It'll probably take a while. Yeah...
 
 
 
-
 Tommy.
