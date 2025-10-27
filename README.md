@@ -16,13 +16,27 @@ Ensure the mod files are placed inside their own separate folder.
 Placing loose files directly into mods without a dedicated subfolder may cause ModLoader errors.
 
 # 📌 Planned Development
-The long-term goal is to modify all stages, though this will take time.
+The long-term goal is to modify all stages and bosses, though this will take time.
 
 ## Status
 
-| Stage            | Mission    | Status                                      |
-|------------------|------------|---------------------------------------------|
-| Pumpkin Hill     | 1 - 4      | ✅ Done                                    |
-| Metal Harbor     | 2, 3       | ✅ Done                                    |
-| Metal Harbor     | 1, 4       | ⚠️ Currently in progress                   |
-| The rest         | yeah...    | ❌ Did not start                           |
+| Stage            | Default layout (Missions 1-4) | Hardmode layout (Mission 5) |
+|------------------|-------------------------------|-----------------------------|
+| City Escape      | ❌ Did not start             | ❌ Did not start            |
+| Wild Canyon      | ❌ Did not start             | ❌ Did not start            |
+| Prison Lane      | ❌ Did not start             | ❌ Did not start            |
+| Metal Harbor     | ✅ Done                      | ❌ Did not start            |
+| Green Forest     | ❌ Did not start             | ❌ Did not start            |
+| Pumpkin Hill     | ✅ Done                      | ❌ Did not start            |
+| Mission Street   | ❌ Did not start             | ❌ Did not start            |
+| Aquatic Mine     | ❌ Did not start             | ❌ Did not start            |
+| Route 101        | ❓ Might never do             | ❓ Might never do            |
+| Hidden Base      | ❌ Did not start             | ❌ Did not start            |
+| Pyramid Cave     | ❌ Did not start             | ❌ Did not start            |
+| Death Chamber    | ❌ Did not start             | ❌ Did not start            |
+| Eternal Engine   | ❌ Did not start             | ❌ Did not start            |
+| Meteor Herd      | ❌ Did not start             | ❌ Did not start            |
+| Crazy Gadget     | ❌ Did not start             | ❌ Did not start            |
+| Final Rush       | ❌ Did not start             | ❌ Did not start            |
+| Dark Story       | ❌ Did not start             | ❌ Did not start            |
+| Bosses           | ❌ Did not start             | That's not a thing. Boo.     |
