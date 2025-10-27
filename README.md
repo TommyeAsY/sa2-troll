@@ -4,7 +4,7 @@ This is a gameplay mod for Sonic Adventure 2 designed to challenge player expect
 
 The goal of the mod is to overplay your assumptions and expectations while staying as enjoyable a process as possible — assuming you found your solution for the new problem. The mod experience is meant to be enjoyable, but only after becoming somewhat frustrating.
 
-Level designed is made primarily for New Game, so you don't need all of the upgrades unlocked, although having them early might decrease the difficulty of the mod.
+Level design is primarily made for New Game, so you don't need all of the upgrades unlocked, although having them early might decrease the difficulty of the mod.
 
 # 🔧 Installation
 To install the mod:
