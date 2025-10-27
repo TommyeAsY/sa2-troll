@@ -9,7 +9,7 @@ Level design is primarily made for New Game, so you don't need all of the upgrad
 # 🔧 Installation
 To install the mod:
 
-Unzip (or currently un-rar) the contents of the archive into your Sonic Adventure 2\mods folder.
+Unzip the contents of the archive into your Sonic Adventure 2\mods folder.
 
 Ensure the mod files are placed inside their own separate folder.
 
